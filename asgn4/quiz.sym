@@ -1,0 +1,20 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	ENDLINE                 303C
+//	PRINT1                  3033
+//	PRINT2                  3036
+//	PRINT3                  3039
+//	PROMPT1                 303D
+//	PROMPT2                 3046
+//	Q1PTS                   3051
+//	Q1STR                   3050
+//	Q2PTS                   3053
+//	Q2STR                   3052
+//	Q3PTS                   3055
+//	Q3STR                   3054
+//	RESULT1                 3056
+//	RESULT2                 3057
+//	RESULT3                 3058
+//	STORE26                 304F
+//	VALUE2                  305A
+//	VALUE3                  3059

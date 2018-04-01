@@ -1,0 +1,20 @@
+
+In the Von Neumann Model, what is memory?
+    1) An array indexed by addresses
+    2) A hard disk drive
+    3) An input and output device
+    4) A series of punchcards
+Answer: 1
+What type of instruction is LEA?
+    1) Computational
+    2) Data movement
+    3) Control
+    4) Assembler directive
+Answer: 2
+What is the max of an unsigned 16-bit value?
+    1) 256
+    2) 32767
+    3) 65536
+    4) 65535
+Answer: 4
+Result: Looks like I should make the midterm harder.

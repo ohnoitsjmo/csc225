@@ -1,0 +1,11 @@
+0011 0000 0000 0000    ; Start the program at location 0x3000.
+0101 001 001 1 00000   ; Clear R1, the sum.
+0101 100 100 1 00000   ; Clear R4.
+0001 100 100 1 01010   ; Set R4 to #10.
+1110 010 011111100     ; Load the starting address of the data into R2.
+0110 011 010 000000    ; Load the next number to be added into R3.
+0001 010 010 1 00001   ; Increment R2.
+0001 001 001 0 00 011  ; Add the next number to the sum.
+0001 100 100 1 11111   ; Decrement R4.
+0000 001 111111011     ; While R4 is positive, repeat.
+1111 0000 00100101     ; Halt.

@@ -1,0 +1,7 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	GETI                    300B
+//	MAIN                    3000
+//	OFFSET                  300C
+//	OUTMSG                  3025
+//	PROMPT                  300D

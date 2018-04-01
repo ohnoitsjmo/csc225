@@ -1,0 +1,13 @@
+; Justin Mo
+0011 0000 0000 0000   ; Start the program at location 0x3000.
+0101 100 100 1 00000  ; Clear R4, the sum of 1's.
+0101 110 110 1 00000  ; Clear R6, the mask.
+0010 011 011111101    ; Load the data at location 0x3100 into R3.
+0001 110 110 1 00001  ; Set the mask in R6.
+0101 001 011 000 110  ; AND R3 with R6; put the result in R1.
+0000 010 000000001    ; While R1 (result of mask) is 0, offset to (x3008);
+0001 100 100 1 00001  ; ADD 1 to R4;
+0001 110 110 000 110  ; Shift the mask to the left.
+0000 101 111111011    ; While R6 (the mask) is not zero, repeat (offset to x3005).
+0011 100 011110111    ; Store value of R4 at location 0x3101.
+1111 0000 00100101    ; Halt.

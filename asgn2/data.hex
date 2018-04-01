@@ -1,0 +1,11 @@
+3100  ; Start the data at memory location 0x3100.
+48F9  ; First hex number (in a list of ten)
+2819
+0110
+0311
+0110
+1110
+11B1
+0019
+0007
+0004

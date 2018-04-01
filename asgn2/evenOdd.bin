@@ -1,0 +1,8 @@
+0011 0000 0000 0000   ; Start the program at location 0x3000.
+0101 001 001 1 00000  ; Clear R1, the result.
+0101 100 100 1 00000  ; Clear R4, the mask.
+0010 011 000101101    ; Load the data at location 0x3030 into R3.
+0001 100 100 1 00001  ; Set the mask in R4.
+0101 001 011 000 100  ; AND R4 with R3; put the result in R1.
+0011 001 000101011    ; Store the result at location 0x3031
+1111 0000 00100101    ; Halt.

@@ -1,0 +1,3 @@
+Encryption Key (1-9): 2
+Input Message: Asm > Java
+Encrypted Message: Btn#A#Mbyb

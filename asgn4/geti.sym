@@ -1,0 +1,10 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	DDR                     330E
+//	DSR                     330D
+//	KBDR                    330C
+//	KBSR                    330B
+//	MINUS                   330F
+//	READ                    3301
+//	SAVER2                  3310
+//	WRITE                   3305
