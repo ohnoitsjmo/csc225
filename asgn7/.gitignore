@@ -1,0 +1,10 @@
+.DS_Store
+*.swp
+*.icloud
+*.o
+*.s
+*.sym
+*.obj
+*.bin
+*.hex
+a.out
