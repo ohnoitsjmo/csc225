@@ -1,0 +1,27 @@
+Welcome to the stack program.
+
+Enter option: What number? Stack: [1]
+
+Enter option: What number? Stack: [1, 2]
+
+Enter option: What number? Stack: [1, 2, 4]
+
+Enter option: Stack: [0x1, 0x2, 0x4]
+
+Enter option: Popped 4.
+Stack: [0x1, 0x2]
+
+Enter option: Popped 2.
+Stack: [0x1]
+
+Enter option: Popped 1.
+Stack: []
+
+Enter option: Error: Stack underflow!
+Stack: []
+
+Enter option: What number? Stack: [0x61]
+
+Enter option: Stack: ['a']
+
+Enter option: Goodbye!
