@@ -1,0 +1,11 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	DONE                    3011
+//	INPUTDONE               300B
+//	LOOP                    3004
+//	LOOP2                   300D
+//	POP                     3015
+//	PROMPT                  3018
+//	PUSH                    3012
+//	STACK                   3034
+//	STACKBASE               3066
